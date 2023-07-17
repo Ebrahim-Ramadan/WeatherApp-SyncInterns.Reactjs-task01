@@ -4,7 +4,11 @@ SyncInterns reactjs internship task fetching OpenWeather API to display weather 
 
 
 
-https://github.com/Ebrahim-Ramadan/WeatherApp-SyncInterns.Reactjs-task01/assets/65041082/f6ef38fa-5c27-40c7-ade5-cbf7a80612ec
+
+
+https://github.com/Ebrahim-Ramadan/WeatherApp-SyncInterns.Reactjs-task01/assets/65041082/acea60c8-236e-4601-b776-a77a53db5375
+
+<br>
 
 ###Requirements.txt<br>
 #A weather application that provides detailed weather details for a location specified by the user.<br>
